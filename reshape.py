@@ -24,7 +24,7 @@ def extract_students_from_text(file_path):
         for match in matches:
             last_name, first_name, grad_year = match
             students.append({
-                "Student": f"{first_name} {last_name}",
+                "Student": f"{last_name} {first_name}",
                 "Grad Year": grad_year
             })
     # Sort students by graduation year
