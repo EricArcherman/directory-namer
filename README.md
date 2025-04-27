@@ -1,4 +1,9 @@
-# DONATIONS_MANAGER
+# directory-namer
+
+gets Roxbury Latin student directory and prints out in .csv format for donation tracking.
+
+----
+details:
 
 The script "reshape.py" gets necessary student data for tracking service drive donations.
 
