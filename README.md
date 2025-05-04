@@ -1,4 +1,4 @@
-# directory-namer
+# name-fetcher
 
 gets Roxbury Latin student directory and prints out in .csv format for donation tracking.
 
